@@ -1,0 +1,3 @@
+En esta versión, se actualiza la documentación para mencionar un conflicto importante con Braille Extender. También se han modificado los flujos de GitHub y algún otro archivo, pero no es relevante para el complemento.
+
+Suma de comprobación SHA256: 

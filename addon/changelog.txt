@@ -1,3 +1,0 @@
-Esta es la primera versión del complemento. Incluye las tablas descritas en la documentación, sin alteraciones.
-
-Suma de comprobación SHA256: 
