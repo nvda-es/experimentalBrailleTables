@@ -33,4 +33,4 @@ Se espera que este complemento tenga un ciclo de publicación de versiones basta
 
 * Para evitar un solapamiento entre las tablas incluidas en NVDA y las que aporta este complemento, estas últimas se han renombrado añadiendo el sufijo "experimental" antes de la extensión del archivo. En algunos casos ha sido necesario modificarlas internamente para que las sentencias `include` coincidan.
 * En las opciones de braille de NVDA, las tablas experimentales se encuentran justo al final de la lista, y no se ordenan alfabéticamente junto a las demás.
-
+* Si usas Braille Extender, deberás deshabilitarlo antes de elegir las tablas de este complemento. De lo contrario, la línea braille se quedará en blanco y el teclado dejará de funcionar. Es posible que el autor resuelva este conflicto en próximas versiones.
