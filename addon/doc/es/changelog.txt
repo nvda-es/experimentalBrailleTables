@@ -1,3 +1,7 @@
-En esta versión, se actualiza la documentación para mencionar un conflicto importante con Braille Extender. También se han modificado los flujos de GitHub y algún otro archivo, pero no es relevante para el complemento.
+Esta versión actualiza la tabla de español grado 1, eliminando los dígitos bajos y permitiendo introducir los signos anulados por ellos, sin que el signo de número se pierda por el camino:
+
+* En es-chardefs.cti, se elimina la dependencia de loweredDigits6Dots.uti.
+* En es-g1-experimental.ctb, se redefinen los dígitos usando instrucciones digit, de tal forma que coinciden con los literales.
+* Ya no se interrumpe un número si se usa la coma o el punto para separar millares o decimales.
 
 Suma de comprobación SHA256: 

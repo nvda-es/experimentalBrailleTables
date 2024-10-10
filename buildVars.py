@@ -25,7 +25,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description": _("""Este complemento contiene diversas tablas braille obtenidas directamente de Liblouis. Su objetivo es ofrecer una solución para evaluar modificaciones de las tablas braille rápidamente, sin necesidad de alterar la instalación de NVDA."""),
 	# version
-	"addon_version": "2024.10.6",
+	"addon_version": "2024.10.10",
 	# Author(s)
 	"addon_author": "Asociación Comunidad Hispanohablante de NVDA <contacto@nvda.es>",
 	# URL for the add-on documentation support
