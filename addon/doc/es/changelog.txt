@@ -1,7 +1,5 @@
-Esta versión actualiza la tabla de español grado 1, eliminando los dígitos bajos y permitiendo introducir los signos anulados por ellos, sin que el signo de número se pierda por el camino:
+Esta versión actualiza la tabla de español grado 1, permitiendo escribir puntos en vez de apóstrofos al pulsar el punto 3 en un teclado:
 
-* En es-chardefs.cti, se elimina la dependencia de loweredDigits6Dots.uti.
-* En es-g1-experimental.ctb, se redefinen los dígitos usando instrucciones digit, de tal forma que coinciden con los literales.
-* Ya no se interrumpe un número si se usa la coma o el punto para separar millares o decimales.
+* En es-chardefs.cti, se añade el operador noback al apóstrofo. De esa forma, al pulsar el punto 3 en un teclado se escribirá un punto, mientras que el apóstrofo se sigue representando del mismo modo en una pantalla braille.
 
 Suma de comprobación SHA256: 
