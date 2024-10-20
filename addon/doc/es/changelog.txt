@@ -1,5 +1,7 @@
-Esta versión actualiza la tabla de español grado 1, permitiendo escribir puntos en vez de apóstrofos al pulsar el punto 3 en un teclado:
+Esta versión optimiza la tabla en español grado 1, prepara el complemento para NVDA 2024.4 y corrige la tabla en catalán:
 
-* En es-chardefs.cti, se añade el operador noback al apóstrofo. De esa forma, al pulsar el punto 3 en un teclado se escribirá un punto, mientras que el apóstrofo se sigue representando del mismo modo en una pantalla braille.
+* Se usa el archivo digits6dots.uti de Liblouis, eliminando líneas de la tabla española de grado 1 y reutilizando trabajo ya existente.
+* Se aplican a la tabla en catalán las correcciones ya vistas en la tabla en español.
+* Ahora, la última versión probada de NVDA es la 2024.4.
 
 Suma de comprobación SHA256: 
