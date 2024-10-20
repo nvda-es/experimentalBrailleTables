@@ -1,5 +1,6 @@
+# liblouis: sub table for digits, 6 dots
 #
-#  Copyright (C) 2010, 2011 by DocArch <http://www.docarch.be>
+#  Copyright (C) 2012-2014 Mesar Hameed <mesar.hameed@gmail.com>
 #
 #  This file is part of liblouis.
 #
@@ -16,20 +17,14 @@
 #  You should have received a copy of the GNU Lesser General Public
 #  License along with liblouis. If not, see
 #  <http://www.gnu.org/licenses/>.
-#
-# -------------------------------------------------------------------------------
-#
-#  Spanish Braille
-#     Created and maintained by Bert Frees <bertfrees@gmail.com>
-#	  with the assistance of Carles Sadurní Anguita <http://www.transcriptor.net/>
-#
-# ----------------------------------------------------------------------------------------------
 
-include es-chardefs.cti
-include braille-patterns.cti
-include litdigits6Dots.uti
-include digits6Dots.uti
-numsign 3456
-capsletter 46
-begcapsword 46-46
-numericmodechars .,
+digit 0 245
+digit 1 1
+digit 2 12
+digit 3 14
+digit 4 145
+digit 5 15
+digit 6 124
+digit 7 1245
+digit 8 125
+digit 9 24
